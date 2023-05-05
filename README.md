@@ -27,7 +27,7 @@ Construye, (re)crea, inicia y se adjunta a contenedores para un servicio.
 
 ## URL del inicio del programa:
 
-+ http://localhost:4200/login
++ http://localhost:3000
 
 ## Accesos:
 
