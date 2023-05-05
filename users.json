@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {"$oid": "6441c19f80fb30b8423f9398"},
+    "__v": 0,
+    "email": "example@email.com",
+    "password": "$2b$10$1EzGXfuFuFfj.WOrtJCFbu3JRgmQGiQu./7u7Qjjk3dU0fmitKZ06"
+  },
+  {
+    "_id": {"$oid": "64545f56a87bccee03f929cf"},
+    "__v": 0,
+    "email": "mentor@email.com",
+    "password": "$2b$10$XswL7.i1FaXNrKXDPvDDn.iuSr9UIzePRlEPiDW4cvYSa4ukpavRG"
+  },
+  {
+    "_id": {"$oid": "645500b7a87bccee03f929d6"},
+    "__v": 0,
+    "email": "usuario1@email.com",
+    "password": "$2b$10$GtqbMcRAGl5qNUGE1qoZ9ufat9Rs3E35Y4CY55ZIbFa6vjmA8F.Gq"
+  }
+]
