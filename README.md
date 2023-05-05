@@ -16,7 +16,7 @@ En este repositorio se encontraran los Temas relacionados a semana 3, 4, 5 y 6
 + npm install mongoose
 + Importar la coleccion users.json ubicada en la parpeta raiz de este proyecto.
 + Se adjunta imagen de la configuracion de la base de datos:
-+ https://raw.githubusercontent.com/HectorSGO/Entregable_1/main/assets/config.png
++ https://raw.githubusercontent.com/HectorSGO/Proyecto_Back/main/assets/config.png
 
 
 ## Comandos de ejecucion:
